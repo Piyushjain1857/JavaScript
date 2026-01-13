@@ -8,3 +8,9 @@ function greet(name) {
 
 greet("Piyush");
 
+// arrow function 
+
+const farewell = (name) => { console.log(name); };
+
+farewell("Piyush");
+
