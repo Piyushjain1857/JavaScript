@@ -1,2 +1,3 @@
 Q1. Iterate all the elements and print the elements
-Q2. Add 5 to each number inside the array.Take Arrey Length %
+Q2. Add 5 to each number inside the array.Take Arrey Length 5
+Q#. Reverce The Arrey. The elements should be numeric
