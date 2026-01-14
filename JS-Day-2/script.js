@@ -32,6 +32,15 @@
 //     console.log(i);
 // }
 
-let arr = [1, 2, 3, 4, 5]
-let result = arr.map((x) => { return x; });
-console.log(result);
+// Map Example: Create a new array that is identical to the original array
+
+// let arr = [1, 2, 3, 4, 5]
+// let result = arr.map((x) => x);
+// console.log(result);
+
+// Filter Example: Create a new array with score is greater than 90
+
+let scores = [85,92,78,90,88];
+let highScores = scores.filter((score) => score >= 90);
+console.log(highScores);
+
