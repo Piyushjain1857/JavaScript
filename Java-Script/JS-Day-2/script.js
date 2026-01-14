@@ -46,12 +46,21 @@
 
 //  example-2
 
-let scores = [85, 92, 78, 90, 88];
-let highScores = scores.filter((score) => 
-{
-    if (score >= 90) {
-        console.log(score + " is greater than or equal to 90");
-    } else {
-        console.log(score + " is less than 90");
-    }
-});
+// let scores = [85, 92, 78, 90, 88];
+// let highScores = scores.filter((score) => 
+// {
+//     if (score >= 90) {
+//         console.log(score + " is greater than or equal to 90");
+//     } else {
+//         console.log(score + " is less than 90");
+//     }
+// });
+
+let numbers = [1, 2, 3, 4, 5];
+let sum = 0;
+
+for (let i = 0; i < numbers.length; i++) {
+    sum = sum + numbers[i];
+}
+
+console.log(sum);
