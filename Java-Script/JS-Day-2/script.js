@@ -56,11 +56,22 @@
 //     }
 // });
 
-let numbers = [1, 2, 3, 4, 5];
-let sum = 0;
+// Reduce Example: Sum all elements in the array by for loop
 
-for (let i = 0; i < numbers.length; i++) {
-    sum = sum + numbers[i];
-}
+// let numbers = [1, 2, 3, 4, 5];
+// let sum = 0;
+
+// for (let i = 0; i < numbers.length; i++) {
+//     sum = sum + numbers[i];
+// }
+
+// console.log(sum);
+
+// by 
+let numbers = [1, 2, 3, 4, 5];
+let sum = numbers.reduce((acc, current) => {
+    return acc + current;
+});
 
 console.log(sum);
+

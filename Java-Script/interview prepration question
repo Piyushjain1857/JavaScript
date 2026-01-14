@@ -1,0 +1,31 @@
+Web Development Imp Points
+
+Questions of CSS:-
+	1.what is inline, internal and external CSS?
+	2.explain the basic types of selectors (tag, class, id)
+	3.difference between class and id.
+	4.what is box model and types of box model?
+	5.difference between margin and padding.
+	6.what is box sizing and use case of box sizing border box?
+	7.How to make a perfect circle?
+	8.difference between absolute and relative?
+	9.difference between sticky and fixed positioning?
+	10.how to add google fonts?
+	11.what is z-index?
+	12.what is combinator and types of combinator?
+	13.difference between descendent selector and child selector
+	14.difference between adjacent sibling selector and general sibling selector
+        15.Difference b/w display block ,inline ,inline block .
+	16.expalin flex directions and its values
+	17.diff b/w wrap ,flex wrap and no wrap
+	18.what is justify contents and discuss its various values
+	19.what is the diff b/w justify-content and align-item
+	20.how to center a div
+
+Questions of java:-
+	Q1. what is java script?
+	Q2. The difference between var, let, const?
+	Q3. Difference Between == and ===
+	Q4. What Is Arrow Function
+	Q5. What is CallBack Function
+	Q6. Difference betwwen map filter and reduce
