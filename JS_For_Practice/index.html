@@ -5,13 +5,36 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        body{
+            text-align: center;
+            margin-top: 30px;
+            font-size: 25px;
+            background-color: rgb(240, 240, 240);
+
+        }
+        button {
+            padding: 10px;
+            font-size: 16px;
+            margin: 20px;
+            background-color: rgb(56, 170, 209);
+            color: white;
+            border-radius: 5px;
+        }
+    </style>
 </head>
 
-<body style="text-align: center;">
+<body>
     <h2 style="margin-bottom: 100px;">Turn Bulb On/Off Using JavaScript</h2>
 
     <button onclick="document.getElementById('myImage').src='./Bulb_on.gif'">Turn on the light</button>
-    <img id="myImage" src="./Bulb_off.gif" style="width:100px">
+    <img id="myImage" src="./Bulb_off.gif" style="width:200px">
     <button onclick="document.getElementById('myImage').src='./Bulb_off.gif'">Turn off the light</button>
 
 
