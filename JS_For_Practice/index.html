@@ -1,12 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body>
-    
+
+<body style="text-align: center;">
+    <h2 style="margin-bottom: 100px;">Turn Bulb On/Off Using JavaScript</h2>
+
+    <button onclick="document.getElementById('myImage').src='./Bulb_on.gif'">Turn on the light</button>
+    <img id="myImage" src="./Bulb_off.gif" style="width:100px">
+    <button onclick="document.getElementById('myImage').src='./Bulb_off.gif'">Turn off the light</button>
+
+
     <script src="./script.js"></script>
 </body>
+
 </html>
