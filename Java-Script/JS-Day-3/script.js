@@ -11,3 +11,10 @@ while (j < 5) {
     console.log("While Loop iteration: " + j);
     j++;
 }
+
+// do-while loop
+let k = 0;
+do {
+    console.log("Do-While Loop iteration: " + k);
+    k++;
+} while (k < 5);
