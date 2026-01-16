@@ -22,3 +22,11 @@
 // console.log(fruits);
 
 
+// Unshift
+// let fruits = ['orange', 'mango']
+// let newLength = fruits.unshift('apple')
+
+// console.log(newLength);
+// console.log(fruits);
+
+
