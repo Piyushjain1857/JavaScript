@@ -24,3 +24,9 @@ const array = ['a', 'b', 'c', 'd', 'e'];
 for (const element of array) {
     console.log("For...of Loop element: " + element);
 }
+
+// for...in loop
+const object = {name: 'Alice', age: 25, city: 'Wonderland'};
+for (const key in object) {
+    console.log("For...in Loop key: " + key + ", value: " + object[key]);
+}
