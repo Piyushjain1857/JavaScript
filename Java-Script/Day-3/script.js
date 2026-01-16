@@ -14,3 +14,11 @@
 // console.log(fruits);
 
 
+// Shift
+// let fruits = ['apple','orange', 'mango']
+// let removed = fruits.shift()
+
+// console.log(removed);
+// console.log(fruits);
+
+
