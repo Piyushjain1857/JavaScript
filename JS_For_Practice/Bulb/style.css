@@ -12,3 +12,21 @@ body {
     background-color: rgb(240, 240, 240);
 }
 
+button {
+    padding: 10px;
+    font-size: 16px;
+    margin: 20px;
+    background-color: rgb(56, 170, 209);
+    color: white;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: rgb(36, 136, 165);
+    cursor: pointer;
+}
+
+img:hover {
+    transform: scale(1.1);
+    transition: all 0.3s ease-in-out;
+}
