@@ -17,3 +17,6 @@
 // let concatenated = array1.concat(array2);
 // console.log(concatenated);
 
+
+
+//  do string methods
