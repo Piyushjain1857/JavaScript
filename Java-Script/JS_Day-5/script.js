@@ -17,4 +17,4 @@
 // substr
 
 // let str = "OpenAI is innovative!";
-// let sub = str.substr(8, 2);
+// let sub = str.substring(8, 2);
