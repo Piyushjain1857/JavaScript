@@ -34,6 +34,11 @@
 // let sentence = "I love JavaScript. JavaScript is powerful.";
 // let newSentence = sentence.replaceAll("JavaScript", "Node.js");
 
+// toUpperCase() and toLowerCase()
+
+// let name = "John Doe";
+// let upperCaseName = name.toUpperCase(); 
+
 // let university="K.R Mangalam"
 // let program="BCA AI/DS"
 // console.log(`My name is Piyush Jain And I am Pursuing ${program} for ${university} `)
