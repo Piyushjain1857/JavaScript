@@ -18,3 +18,12 @@
 
 // let str = "OpenAI is innovative!";
 // let sub = str.substring(8, 2);
+
+// string literals
+
+let fulname =`${firstName} ${lastName}`
+console.log(fulname)
+
+let university="K.R Mangalam"
+let program="BCA AI/DS"
+console.log(`My name is Piyush Jain And I am Pursuing ${program} for ${university} `)
