@@ -38,6 +38,7 @@
 
 // let name = "John Doe";
 // let upperCaseName = name.toUpperCase(); 
+// let lowerCaseName = name.toLowerCase();
 
 // let university="K.R Mangalam"
 // let program="BCA AI/DS"
