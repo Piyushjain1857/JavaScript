@@ -29,3 +29,12 @@ let user={
 // console.log(Object.keys(user));
 // console.log(Object.values(user));
 // console.log(Object.entries(user));
+
+const car={
+    make:"Mahindra",
+    model:"Thar",
+};
+
+car.color="ZBlack";
+
+console.log(car);
